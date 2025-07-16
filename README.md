@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VikramChintapalli
-- 👀 I’m interested in data engineering using Python
-- 🌱 I’m currently learning PySpark
+- 👀 I’m a data engineer
+- 🌱 I’m currently working on PySpark,databricks,Azure 
 - 💞️ I’m looking to collaborate on data engineering projects
 - 📫 You can reach me through chintapalli.vikram@gmail.com
 
